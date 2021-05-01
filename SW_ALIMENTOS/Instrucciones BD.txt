@@ -10,4 +10,10 @@ precio int (5) NOT NULL,cantidad_existente int (5) NOT NULL,
 fecha_elaboracion varchar(10) NOT NULL, fecha_caducidad varchar(10) NOT NULL, 
 categoria varchar (20) NOT NULL) ENGINE=InnoDB
 
-++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++NOTA++++++++++++++++++++++++++
+DEBIDO A UN PROBLEMA DEL TAMAÑO DE GITHUB, EL ARCHIVO alimentos-0.0.1-SNAPSHOT
+SE HA SUBIDO EN UNA CARPETA COMPARTIDA EN DRIVE 
+PARA DESCARGARLO FAVOR DE DIRIGIRSE A LA SIGUIENTE LIGA 
+https://drive.google.com/drive/folders/1QuF4xhqqTCsKi4Z0_oOO_kFNcIwEvgYP?usp=sharing
+UNA VEZ DESCARGADO EL ARCHIVO, FAVOR DE AGREGARLO A LA SIGUIENTE DIRECCIÓN 
+Alimentos_SW/target/ Y LISTO
